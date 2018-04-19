@@ -12,4 +12,5 @@
 * Implement any *tests (unit, integration)* you consider valuable and reasonable.
 * If you need any NuGet packages feel free to use them.
 * Imagine this is a real production code you used to write and apply all the principles you use during your daily routine.
+Should you have any questions, please do not hesitate to create a github Issue where we can address all the controversial points.
 Happy coding and good luck!

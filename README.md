@@ -12,5 +12,5 @@
 * If you need any NuGet packages feel free to use them.
 * Imagine this is a real production code you used to write and apply all the principles you use during your daily routine.
 Should you have any questions, please do not hesitate to create a github [Issue](https://github.com/sviataslau/crexi/issues) where we can address all the controversial points.
-* Please, start in your *own branch named 'Your-Name-implementation'* and submit your *changes as a PR* when you're ready
+* Please, make a fork of the repository, start an *own branch named 'Your-Name-implementation'* and submit your *changes as a PR* when you're ready 
 Happy coding and good luck!

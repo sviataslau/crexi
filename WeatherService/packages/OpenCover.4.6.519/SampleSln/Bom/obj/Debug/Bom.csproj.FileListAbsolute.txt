@@ -1,0 +1,6 @@
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\Bom\bin\Debug\Bom.dll
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\Bom\bin\Debug\Bom.pdb
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\Bom\obj\Debug\Bom.csprojResolveAssemblyReference.cache
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\Bom\obj\Debug\Bom.csproj.CoreCompileInputs.cache
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\Bom\obj\Debug\Bom.dll
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\Bom\obj\Debug\Bom.pdb

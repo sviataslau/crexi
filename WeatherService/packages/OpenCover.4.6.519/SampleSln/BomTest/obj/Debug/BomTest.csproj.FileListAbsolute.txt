@@ -1,0 +1,11 @@
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\bin\Debug\BomTest.dll
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\bin\Debug\BomTest.pdb
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\bin\Debug\Bom.dll
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\bin\Debug\nunit.framework.dll
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\bin\Debug\Bom.pdb
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\bin\Debug\nunit.framework.xml
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\obj\Debug\BomTest.csprojResolveAssemblyReference.cache
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\obj\Debug\BomTest.csproj.CoreCompileInputs.cache
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\obj\Debug\BomTest.csproj.CopyComplete
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\obj\Debug\BomTest.dll
+C:\Users\Rick\.nuget\packages\opencover\4.6.519\SampleSln\BomTest\obj\Debug\BomTest.pdb
